@@ -1,0 +1,2 @@
+learner,n_features,mean_rmsle,sd_rmsle,worst_fold_rmsle,best_fold_rmsle,mean_best_iteration,median_best_iteration,mean_train_seconds,total_train_seconds,mean_predict_seconds,mean_total_seconds,categorical_encoding,rank,delta_vs_best,selection_rule
+xgboost,23,0.632945208599987,0.0914471636805927,0.725381508844046,0.542520367320196,2000,2000,17.1754066149394,51.5262198448181,0.288349707921346,17.4637563228607,one-hot station_number,1,0,Lowest mean RMSLE across the three chronological folds

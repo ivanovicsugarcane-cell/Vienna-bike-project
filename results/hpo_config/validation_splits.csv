@@ -1,0 +1,5 @@
+fold_id,split_type,train_start,train_end,valid_start,valid_end,train_rows,valid_rows,train_unique_dates,valid_unique_dates
+inner_1,inner_development,2024-09-03,2024-12-13,2024-12-14,2024-12-27,1142335,157920,102,14
+inner_2,inner_development,2024-09-03,2024-12-27,2024-12-28,2025-01-10,1300255,157920,116,14
+inner_3,inner_development,2024-09-03,2025-01-10,2025-01-11,2025-01-24,1458175,157920,130,14
+outer_48d,outer_confirmation,2024-09-03,2025-01-24,2025-01-25,2025-03-13,1616095,534155,144,48

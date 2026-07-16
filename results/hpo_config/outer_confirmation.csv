@@ -1,0 +1,3 @@
+config_id,config_source,center_id,fold_id,phase,status,error_message,valid_rmsle,valid_rmse_log,best_nrounds,elapsed_seconds,train_rows,valid_rows,n_columns,eta,max_depth,min_child_weight,subsample,colsample_bytree,gamma,lambda,alpha,selected_from_inner_folds,outer_used_for_selection
+baseline,baseline,,outer_48d,outer_confirmation_reporting_only,ok,,0.641304363299295,0.641304363299295,5000,35.2352628707886,1616095,534155,257,0.03,6,10,0.85,0.85,0,1,0,FALSE,FALSE
+reference_config,previous_submission_reference,,outer_48d,outer_confirmation_reporting_only,ok,,0.639866031042765,0.639866031042765,5000,32.7679071426392,1616095,534155,257,0.03591504,6,3.99688001,0.87071714,0.6513113,0.01718908,0.31737196,0.00620258,TRUE,FALSE

@@ -1,0 +1,11 @@
+setting,value
+timezone,UTC
+target,log1p(bikes)
+inner_folds,3
+inner_validation_days,14
+outer_validation_days,48
+nrounds,1200
+early_stopping_rounds,50
+rmsle_tolerance,0.001
+seed,123
+post_processing,none

@@ -1,0 +1,2 @@
+feature_set,n_features,mean_rmsle,sd_rmsle,worst_fold_rmsle,best_fold_rmsle,mean_best_iteration,median_best_iteration,mean_train_seconds,total_train_seconds,rank,delta_vs_best,selection_rule
+C2,30,0.619876788854353,0.0806582406349149,0.689303117717499,0.53139801805812,1200,1200,20.7182629903158,62.1547889709473,2,0.00031721480782676,Lowest feature count within 0.001 RMSLE of the best three-fold mean

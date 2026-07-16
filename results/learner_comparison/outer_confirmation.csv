@@ -1,0 +1,2 @@
+fold_id,learner,valid_rmsle,valid_rmse_log,best_iteration,train_seconds,predict_seconds,total_seconds,n_input_columns,categorical_encoding,inner_mean_rmsle,inner_sd_rmsle
+outer_48d,xgboost,0.639217182930877,0.639217182930877,2000,22.2405209541321,0.561996936798096,22.8025178909302,257,one-hot station_number,0.632945208599987,0.0914471636805927

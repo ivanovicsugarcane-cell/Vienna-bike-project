@@ -1,0 +1,13 @@
+setting,value
+timezone,UTC
+target,log1p(bikes)
+inverse_transformation,"pmax(0, expm1(pred_log))"
+inner_folds,3
+inner_validation_days,14
+outer_validation_days,48
+max_rounds,2000
+early_stopping_rounds,100
+seed,123
+threads,15
+post_processing,none
+profile_source,current fold training period only

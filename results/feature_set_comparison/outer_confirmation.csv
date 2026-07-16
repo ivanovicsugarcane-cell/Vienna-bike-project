@@ -1,0 +1,2 @@
+fold_id,feature_set,n_features,n_matrix_columns,valid_rmsle,valid_rmse_log,best_iteration,train_seconds,inner_mean_rmsle,inner_sd_rmsle
+outer_48d,C2,30,264,0.639925999030961,0.639925999030961,1200,15.8645801544189,0.619876788854353,0.0806582406349149
